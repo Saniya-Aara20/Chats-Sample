@@ -1,0 +1,23 @@
+
+body{
+    margin-left: 20px;
+}
+.allChats{
+    background-color: antiquewhite;
+    border-radius: 5%;
+    margin: 5px;
+    padding: 20px;
+    display: inline-block;
+    height: 250px;
+    width: 250px;
+
+}
+
+.msg
+{
+    background-color: red;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 5px;
+    
+}
